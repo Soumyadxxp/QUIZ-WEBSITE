@@ -121,6 +121,3 @@ This project is open-source and available under the MIT License.
 Feel free to use, modify, and distribute it for educational and personal projects.
 
 ---
-
-
-Happy Coding! 🚀
